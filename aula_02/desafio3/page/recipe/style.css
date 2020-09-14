@@ -1,0 +1,46 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap";
+
+
+.header #recipe{
+    font-family: 'Roboto';
+    
+}
+.cards-receitas {
+    padding: 5px 0 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    
+}
+
+.titulo {
+    font-size: 20px;
+    line-height: 30px;
+    color: #111111;
+    font-family: 'Roboto';
+    
+}
+.card {
+    padding: 20px 0 0 ;
+}
+
+.foto img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.titulo-comida {
+    font-size: 17px;
+    line-height: 28px;
+    color: #111111;
+    font-family: 'Roboto';
+    
+}
+
+.autor {
+    font-size: 14px;
+    line-height: 24px;
+    color: #777777;
+    
+}

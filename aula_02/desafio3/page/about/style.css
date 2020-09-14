@@ -1,0 +1,40 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap";
+
+.header #about{
+    font-family: 'Roboto';
+    
+}
+
+p {
+    font-size: 17px;
+    line-height: 28px;
+    padding: 20px 0;
+}
+
+.titulo {
+    font-size: 24px;
+    line-height: 34px;
+    color: #111111;
+    font-family: 'Roboto';
+    margin: 100px 0;
+    
+}
+
+.titulo-menor {
+    font-size: 20px;
+    line-height: 30px;
+    color: #111111;
+    font-family: 'Roboto';
+    margin: 100px 0;
+    
+}
+
+
+
+
+
+
+
+
+
+
